@@ -1,0 +1,6 @@
+#Lightsabers attack damage (default: 30)
+#Range: 1 ~ 150
+lightsaberDamage = 30
+#Enable Kyber crystal generation (default: true)
+generateKyberCrystal = true
+

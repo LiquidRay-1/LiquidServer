@@ -1,0 +1,42 @@
+
+[Spells]
+	#How much cooldowns every tick
+	"Cooldown speed" = 1.0
+	#How much cooldowns every tick when amethyst apple was eaten
+	"Cooldown speed with Amethyst Apple" = 2.0
+	#Max mana
+	"Max mana" = 50.0
+
+["Mana bar"]
+	"First half-segment" = 5.0
+	"First full-segment" = 10.0
+	"Second half-segment" = 15.0
+	"Second full-segment" = 20.0
+	"Third half-segment" = 25.0
+	"Third full-segment" = 30.0
+	"Fourth half-segment" = 35.0
+	"Fourth full-segment" = 40.0
+	"Fifth half-segment" = 45.0
+	"Fifth full-segment" = 50.0
+
+[Miscellaneous]
+	#Natural mana regeneration
+	"Natural mana regeneration" = false
+	#Natural mana regeneration speed in ticks (20 ticks = 1 second)
+	"Natural mana regeneration speed" = 20.0
+	#How much mana regenerates
+	"Natural mana regeration amount" = 1.0
+	#When gesture is made circles will appear
+	"Magic circles visibility" = true
+
+[Items]
+	#How much mana amethyst carrot regenerates when eaten
+	"Amethyst carrot regeneration" = 1.0
+	#How much mana multiplies when robe is on player
+	"Full Robe Mana Multiplier" = 2.0
+
+[Warnings]
+	"Applying Warning" = "When you make changes to config please rejoin your world or fully reload your server otherwise changes will not be applied"
+	"Mana warning" = "If you change the max mana, please adjust the mana bar segments accordingly. Set each segment threshold at 10% intervals of the max mana value. For example, if max mana is set to 500, use thresholds of 50, 100, 150, 200, 250, 300, 350, 400, 450, and 500"
+	"Robe warning" = "Please don't set Full Robe Mana Multiplier really high i wouldn't recommend to set it bigger than 4"
+

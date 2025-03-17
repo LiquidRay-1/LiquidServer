@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "a70ea0c1d056376d8f4953ac0a1566a9"
+	name: "LiquidMankey#a70ea0c1"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

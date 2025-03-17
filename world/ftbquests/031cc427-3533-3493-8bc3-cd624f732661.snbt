@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "031cc427353334938bc3cd624f732661"
+	name: "Rk_C_137#031cc427"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
