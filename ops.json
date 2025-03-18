@@ -10,5 +10,11 @@
     "name": "LiquidMankey",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "1bcd2923-cc79-42da-aca9-41a891f005a3",
+    "name": "Franco",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
