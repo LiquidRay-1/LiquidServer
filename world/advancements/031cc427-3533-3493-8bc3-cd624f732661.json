@@ -6143,6 +6143,12 @@
     },
     "done": true
   },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-03-18 02:33:32 +0100"
+    },
+    "done": true
+  },
   "computercraft:recipes/redstone/printer": {
     "criteria": {
       "has_computer": "2025-03-18 02:34:06 +0100"
@@ -6212,12 +6218,6 @@
   "computercraft:recipes/redstone/pocket_computer_advanced": {
     "criteria": {
       "has_computer": "2025-03-18 02:34:06 +0100"
-    },
-    "done": true
-  },
-  "lootr:root": {
-    "criteria": {
-      "always_true": "2025-03-18 02:33:32 +0100"
     },
     "done": true
   },
