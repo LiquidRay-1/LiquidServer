@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "5692e3d9ada93c2e9e0247c2d535987b"
+	name: "jpaib#5692e3d9"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

@@ -20,7 +20,7 @@
 	# Default will check this setting for each team
 	# Default: "check"
 	# Valid values: "check", "deny", "allow"
-	fake_players: "check"
+	fake_players: "allow"
 	
 	# Minimap for clients connecting to this server will be disabled
 	# Default: false
@@ -65,7 +65,7 @@
 	# You can override this with FTB Ranks 'ftbchunks.max_force_loaded' permission
 	# Default: 25
 	# Range: -∞ ~ +∞
-	max_force_loaded_chunks: 25
+	max_force_loaded_chunks: 5
 	
 	# Maximum time (in real-world days) where if no player in a team logs in, the team automatically loses their claims.
 	# Prevents chunks being claimed indefinitely by teams who no longer play.
@@ -105,7 +105,7 @@
 	
 	# If true, pistons are prevented from pushing/pulling blocks across claims owned by different teams (unless the target claim has public 'edit block' permissions defined). If 'disable_protection' is set to true, this setting is ignored.
 	# Default: true
-	piston_protection: true
+	piston_protection: false
 	
 	# When true, standard FTB Chunk explosion protection is applied in protected chunks when the source of the explosion cannot be determined
 	# (Ghast fireballs are a common case - vanilla supplies a null entity source)

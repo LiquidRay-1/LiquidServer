@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "89eb42ae30f7356eb07eaa95855fd534"
+	name: "vaca_suelta_km3#89eb42ae"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

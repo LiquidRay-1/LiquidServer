@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "797a1d70a5f930e68de71c91bc329678"
+	name: "Ichira#797a1d70"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

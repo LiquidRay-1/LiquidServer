@@ -1,0 +1,37 @@
+{
+	id: "6e4b59a0-2297-4cd6-92b8-62c53bd74a01"
+	type: "party"
+	owner: "031cc427-3533-3493-8bc3-cd624f732661"
+	ranks: {
+		5692e3d9-ada9-3c2e-9e02-47c2d535987b: "member"
+		031cc427-3533-3493-8bc3-cd624f732661: "owner"
+		89eb42ae-30f7-356e-b07e-aa95855fd534: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "lalala"
+		"ftbteams:description": ""
+		"ftbteams:color": "#76AF3E"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1742419841281L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Rk_C_137\"}]}" }
+		{ from: "031cc427-3533-3493-8bc3-cd624f732661", date: 1742419968545L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"jpaib\"}]}" }
+		{ from: "031cc427-3533-3493-8bc3-cd624f732661", date: 1742419968546L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"vaca_suelta_km3\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1742419972980L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"vaca_suelta_km3\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1742419975329L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"jpaib\"}]}" }
+	]
+	extra: { }
+}

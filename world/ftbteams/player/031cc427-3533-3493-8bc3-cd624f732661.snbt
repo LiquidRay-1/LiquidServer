@@ -2,13 +2,11 @@
 	id: "031cc427-3533-3493-8bc3-cd624f732661"
 	type: "player"
 	player_name: "Rk_C_137"
-	ranks: {
-		031cc427-3533-3493-8bc3-cd624f732661: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Rk_C_137"
 		"ftbteams:description": ""
-		"ftbteams:color": "#59FFAA"
+		"ftbteams:color": "#FF5D59"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 		"ftbchunks:allow_explosions": 0b

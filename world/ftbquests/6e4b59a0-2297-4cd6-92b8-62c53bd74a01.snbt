@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "6e4b59a022974cd692b862c53bd74a01"
+	name: "lalala#6e4b59a0"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

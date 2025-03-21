@@ -39,11 +39,11 @@ debugLevel=0
 		#Whether the Coin Mint machine can be crafted.
 		#Disabling will not remove and exist Coin Mints from the world, nor prevent their use.
 		#Default: true
-		canCraftCoinMint=true
+		canCraftCoinMint=false
 		
 		#Whether or not built-in coin mint recipes that turn resources into coins will be loaded.
 		#Default: true
-		canMint=true
+		canMint=false
 		
 		#Whether or not built-in coin mint recipes that turn coins back into resources will be loaded.
 		#Default: false
@@ -136,7 +136,7 @@ debugLevel=0
 	#Whether advancements will give players chocolate coins as a reward for playing during the event.
 	#Note: Disabling will disable the entire `/lcadmin events reward` command used by the functions to give the reward.
 	#Default: true
-	advancementRewards=true
+	advancementRewards=false
 	
 	#Whether the Chocolate Event Coins will be added to the coin data.
 	#Note: Disabling will not remove any Chocolate Coin items that already exist.
@@ -158,15 +158,15 @@ debugLevel=0
 [villagers]
 	#Whether the wandering trader will have additional trades that allow you to buy misc items with money.
 	#Default: true
-	addCustomWanderingTrades=true
+	addCustomWanderingTrades=false
 	
 	#Whether the banker villager profession will have any registered trades. The banker sells Lightman's Currency items for coins.
 	#Default: true
-	addBanker=true
+	addBanker=false
 	
 	#Whether the cashier villager profession will have any registered trades.. The cashier sells an amalgamation of vanilla traders products for coins.
 	#Default: true
-	addCashier=true
+	addCashier=false
 	
 	#Villager Trade Modification
 	#Note: Changes made only apply to newly generated trades. Villagers with trades already defined will not be changed.
@@ -241,7 +241,7 @@ debugLevel=0
 	[loot.entities]
 		#Whether coins can be dropped by entities.
 		#Default: true
-		enabled=true
+		enabled=false
 		
 		#Whether coins can be dropped by entities that were spawned by the vanilla spawner.
 		#Default: false
@@ -310,7 +310,7 @@ debugLevel=0
 	[loot.chests]
 		#Whether coins can spawn in chests.
 		#Default: true
-		enabled=true
+		enabled=false
 		
 		#Chest Spawn Lists
 		[loot.chests.lists]
