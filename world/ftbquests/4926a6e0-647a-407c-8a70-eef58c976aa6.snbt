@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "4926a6e0647a407c8a70eef58c976aa6"
+	name: "Imperio_Otomano#4926a6e0"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

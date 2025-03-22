@@ -1,145 +1,480 @@
-[21mar2025 00:02:00.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Gave 1 [Golden Leggings] to LiquidMankey]
-[21mar2025 00:02:34.258] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rk_C_137[/37.134.122.14:54954] logged in with entity id 553543 at (-2143.9577650336623, 63.0, -2824.6996531299023)
-[21mar2025 00:02:34.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rk_C_137 joined the game
-[21mar2025 00:02:34.386] [Server thread/INFO] [Jade/]: Syncing config to Rk_C_137 (031cc427-3533-3493-8bc3-cd624f732661)
-[21mar2025 00:02:34.392] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Client logged in: sending dimlet packages
-[21mar2025 00:02:34.621] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Rk_C_137 (18)
-[21mar2025 00:02:34.621] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Rk_C_137
-[21mar2025 00:02:40.101] [Server thread/INFO] [do_a_barrel_roll/]: Client of Rk_C_137 accepted server config.
-[21mar2025 00:06:53.125] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/571122, l='ServerLevel[world]', x=632.50, y=74.00, z=-9091.50]
-[21mar2025 00:11:26.378] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/590579, l='ServerLevel[world]', x=482.50, y=70.00, z=-8408.50]
-[21mar2025 00:13:15.193] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rk_C_137 moved wrongly!
-[21mar2025 00:14:46.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rk_C_137 moved wrongly!
-[21mar2025 00:17:18.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rk_C_137 moved wrongly!
-[21mar2025 00:20:48.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LiquidMankey has made the advancement [Penteconter]
-[21mar2025 00:21:29.341] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/611342, l='ServerLevel[world]', x=-2136.50, y=63.00, z=-2849.50, removed=DISCARDED]
-[21mar2025 00:21:42.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rk_C_137 moved wrongly!
-[21mar2025 00:22:12.209] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3061ms or 61 ticks
-[21mar2025 00:24:52.618] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Giusi'/599866, l='ServerLevel[world]', x=138.29, y=61.17, z=-7635.86] died, message: 'Giusi drowned'
-[21mar2025 00:24:52.620] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Giusi'/599866, l='ServerLevel[world]', x=138.29, y=61.17, z=-7635.86] died: Giusi drowned
-[21mar2025 00:37:26.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LiquidMankey> el uranio pa que vale
-[21mar2025 00:43:37.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LiquidMankey moved too quickly! 1.1239128922175041,-10.07260157891946,-1.2638543532466429
-[21mar2025 01:00:44.876] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3055ms or 61 ticks
-[21mar2025 01:03:38.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LiquidMankey> rick
-[21mar2025 01:03:42.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LiquidMankey> estas??
-[21mar2025 01:03:43.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rk_C_137> diga
-[21mar2025 01:03:52.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LiquidMankey> hazte un buzon
-[21mar2025 01:04:00.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rk_C_137> boy
-[21mar2025 01:04:28.022] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/611342, l='ServerLevel[world]', x=-2136.50, y=63.00, z=-2849.50, removed=DISCARDED]
-[21mar2025 01:05:30.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LiquidMankey> avisame cuando estes
-[21mar2025 01:05:34.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rk_C_137> un sec
-[21mar2025 01:07:00.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rk_C_137> echo
-[21mar2025 01:07:04.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LiquidMankey> va
-[21mar2025 01:07:07.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LiquidMankey> atento
-[21mar2025 01:07:28.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LiquidMankey> ya
-[21mar2025 01:07:35.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rk_C_137> MA
-[21mar2025 01:07:44.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rk_C_137> pero como has conseguio tanto
-[21mar2025 01:07:47.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LiquidMankey> una cosa
-[21mar2025 01:07:55.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LiquidMankey> os hace falta piedra?
-[21mar2025 01:08:15.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rk_C_137> nono piedra vamos a reventar xD
-[21mar2025 01:08:19.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LiquidMankey> vava
-[21mar2025 01:08:59.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LiquidMankey> tengo tanto uranio que tengo que guardarlo en bloques
-[21mar2025 01:15:34.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LiquidMankey has made the advancement [Raw Vanadinite Crystals]
-[21mar2025 01:17:50.991] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/611342, l='ServerLevel[world]', x=-2136.50, y=63.00, z=-2849.50, removed=DISCARDED]
-[21mar2025 01:22:12.300] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3192ms or 63 ticks
-[21mar2025 01:28:59.335] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/611342, l='ServerLevel[world]', x=-2136.50, y=63.00, z=-2849.50, removed=DISCARDED]
-[21mar2025 01:29:20.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LiquidMankey> nene rick por lo que sea no mires el buzon
-[21mar2025 01:29:38.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rk_C_137> oka
-[21mar2025 01:30:06.113] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/611342, l='ServerLevel[world]', x=-2136.50, y=63.00, z=-2849.50, removed=DISCARDED]
-[21mar2025 01:30:06.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rk_C_137 moved too quickly! -1703.915139211822,7.5,-2349.5981754254726
-[21mar2025 01:30:46.908] [Server thread/ERROR] [waterframes/]: Received packet 'TimePacket' pointing to a invalid DisplayTile position BlockPos{x=471, y=52, z=-9049}
-[21mar2025 01:30:46.909] [Server thread/ERROR] [waterframes/]: Received packet 'TimePacket' pointing to a invalid DisplayTile position BlockPos{x=471, y=52, z=-9049}
-[21mar2025 01:30:48.741] [Server thread/INFO] [do_a_barrel_roll/]: Client of LiquidMankey accepted server config.
-[21mar2025 01:31:00.296] [Server thread/INFO] [do_a_barrel_roll/]: Client of LiquidMankey accepted server config.
-[21mar2025 01:31:15.373] [Server thread/INFO] [do_a_barrel_roll/]: Client of LiquidMankey accepted server config.
-[21mar2025 01:38:19.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rk_C_137 has made the advancement [The Alloy That Started it All]
-[21mar2025 01:39:16.563] [Worker-Main-111/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
-[21mar2025 01:39:16.565] [Worker-Main-111/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
-[21mar2025 01:42:12.328] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3119ms or 62 ticks
-[21mar2025 01:45:17.445] [Server thread/INFO] [do_a_barrel_roll/]: Client of LiquidMankey accepted server config.
-[21mar2025 01:49:51.246] [Netty Server IO #13/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [ponder:main,gambling:gambling,cataclysm:main_channel,simpleradio:channel,alexsmobs:main_channel,waterframes:network,cosmeticarmorreworked:main,alchemylib:main,creativecore:main,ic_ip:main,lootr:main_network_channel,geckolib:main,inventorysorter:net,strawstatues:1,ballistix:main,ic_air:main,lightmanscurrency:network,botania:main,shrink:main_channel,polymorph:main,framedblocks:main,supermartijn642configlib:sync_configs,tombstone:tombstone_channel,biomancy:main,hand_magic:hand_magic,waystones:network,torchmaster:main,mighty_mail:play,alexscaves:main_channel,pointblank:pointblank,sophisticatedbackpacks:channel,chipped:main,computercraft:network,framework:play,lionfishapi:main_channel,forge:tier_sorting,mekanism:mekanism,littletiles:main,create:main,alchemistry:main,carryon:carryonpackets,mekanismgenerators:mekanismgenerators,citadel:main_channel,storagedrawers:main_channel,securitycraft:securitycraft,minions:minions,ad_astra:main,curios:main,framework:handshake,electrodynamics:main,exposure:packets,mca:main,sophisticatedcore:channel,patchouli:main,trashcans:main,spongebobs_spatula:spongebobs_spatula,spongebobmemepaintings:spongebobmemepaintings,true_herobrine:true_herobrine] rejected vanilla connections
-[21mar2025 01:49:51.248] [Netty Server IO #13/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/45.135.194.65:56726] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
-[21mar2025 01:57:09.974] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Ilan'/672449, l='ServerLevel[world]', x=341.52, y=64.00, z=-9113.52] died: Ilan burned to death
-[21mar2025 02:00:52.658] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/674236, l='ServerLevel[world]', x=140.50, y=73.00, z=-8938.50]
-[21mar2025 02:01:18.608] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/674361, l='ServerLevel[world]', x=271.50, y=74.00, z=-9083.50]
-[21mar2025 02:02:12.429] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3150ms or 63 ticks
-[21mar2025 02:03:43.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LiquidMankey has made the advancement [Mine? Mine? Mine?]
-[21mar2025 02:15:47.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rk_C_137> ivan
-[21mar2025 02:15:49.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rk_C_137> problema
-[21mar2025 02:15:58.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LiquidMankey> no me asustes
-[21mar2025 02:16:03.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rk_C_137> el nuclear science no está metido
-[21mar2025 02:16:12.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LiquidMankey> y eso que
-[21mar2025 02:16:23.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rk_C_137> que es como se hacen las bombas bonicas
-[21mar2025 02:16:35.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rk_C_137> y apartes sirve pa maquinas y energia
-[21mar2025 02:16:50.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rk_C_137> hacemos actu otro dia si quieres y miramos mas mods
-[21mar2025 02:16:58.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rk_C_137> tampoco es tan urgente la wea
-[21mar2025 02:17:01.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LiquidMankey> vava
-[21mar2025 02:17:05.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LiquidMankey> me habias asustado
-[21mar2025 02:17:12.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rk_C_137> no c preocupe
-[21mar2025 02:17:19.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rk_C_137> el server aguanta de lokos
-[21mar2025 02:17:32.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LiquidMankey> yo queria meter el de pokemon tambien, lo tenia pensado como propuesta
-[21mar2025 02:17:57.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rk_C_137> podemos verlo pa la proxima actu
-[21mar2025 02:18:14.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LiquidMankey> perfect
-[21mar2025 02:22:22.225] [Server thread/ERROR] [waterframes/]: Received packet 'TimePacket' pointing to a invalid DisplayTile position BlockPos{x=471, y=52, z=-9049}
-[21mar2025 02:22:22.226] [Server thread/ERROR] [waterframes/]: Received packet 'TimePacket' pointing to a invalid DisplayTile position BlockPos{x=471, y=52, z=-9049}
-[21mar2025 02:22:22.226] [Server thread/ERROR] [waterframes/]: Received packet 'TimePacket' pointing to a invalid DisplayTile position BlockPos{x=471, y=52, z=-9049}
-[21mar2025 02:22:22.226] [Server thread/ERROR] [waterframes/]: Received packet 'TimePacket' pointing to a invalid DisplayTile position BlockPos{x=471, y=52, z=-9049}
-[21mar2025 02:22:23.720] [Server thread/INFO] [do_a_barrel_roll/]: Client of LiquidMankey accepted server config.
-[21mar2025 02:22:54.521] [Server thread/INFO] [do_a_barrel_roll/]: Client of LiquidMankey accepted server config.
-[21mar2025 02:24:28.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LiquidMankey has made the advancement [Spooky Scary Skeleton]
-[21mar2025 02:24:46.170] [Server thread/ERROR] [mekanism.common.Mekanism/]: Different orphan transmitter was already registered at location! [Coord4D: -2137, 63, -2818, dim=minecraft:overworld]
-[21mar2025 02:24:46.172] [Server thread/ERROR] [mekanism.common.Mekanism/]: Different orphan transmitter was registered at location during removal! [Coord4D: -2137, 63, -2818, dim=minecraft:overworld]
-[21mar2025 02:32:39.810] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3116ms or 62 ticks
-[21mar2025 02:32:41.378] [Server thread/INFO] [do_a_barrel_roll/]: Client of LiquidMankey accepted server config.
-[21mar2025 02:32:53.583] [Server thread/INFO] [do_a_barrel_roll/]: Client of LiquidMankey accepted server config.
-[21mar2025 02:34:17.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LiquidMankey> voy a apagar ya mismo el servidor
-[21mar2025 02:34:21.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rk_C_137> okiz
-[21mar2025 02:34:26.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rk_C_137> avisa cuando eso
-[21mar2025 02:39:28.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LiquidMankey> pues ya xd
-[21mar2025 02:39:32.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rk_C_137> corto
-[21mar2025 02:39:35.212] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rk_C_137 lost connection: Disconnected
-[21mar2025 02:39:35.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rk_C_137 left the game
-[21mar2025 02:39:35.213] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Rk_C_137
-[21mar2025 02:40:23.943] [Server thread/ERROR] [waterframes/]: Received packet 'TimePacket' pointing to a invalid DisplayTile position BlockPos{x=471, y=52, z=-9049}
-[21mar2025 02:40:23.944] [Server thread/ERROR] [waterframes/]: Received packet 'TimePacket' pointing to a invalid DisplayTile position BlockPos{x=471, y=52, z=-9049}
-[21mar2025 02:40:24.664] [Server thread/INFO] [do_a_barrel_roll/]: Client of LiquidMankey accepted server config.
-[21mar2025 02:40:37.227] [Server thread/INFO] [do_a_barrel_roll/]: Client of LiquidMankey accepted server config.
-[21mar2025 02:41:12.404] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LiquidMankey lost connection: Disconnected
-[21mar2025 02:41:12.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LiquidMankey left the game
-[21mar2025 02:41:12.406] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client LiquidMankey
-[21mar2025 02:41:36.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[21mar2025 02:41:36.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[21mar2025 02:41:36.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[21mar2025 02:41:36.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[21mar2025 02:41:36.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21mar2025 02:41:36.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
-[21mar2025 02:41:36.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[21mar2025 02:41:36.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[21mar2025 02:41:36.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
-[21mar2025 02:41:36.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
-[21mar2025 02:41:36.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
-[21mar2025 02:41:36.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
-[21mar2025 02:41:36.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
-[21mar2025 02:41:36.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
-[21mar2025 02:41:36.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
-[21mar2025 02:41:36.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
-[21mar2025 02:41:36.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
-[21mar2025 02:41:36.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
-[21mar2025 02:41:36.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21mar2025 02:41:36.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
-[21mar2025 02:41:36.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21mar2025 02:41:36.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21mar2025 02:41:36.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
-[21mar2025 02:41:36.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
-[21mar2025 02:41:36.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
-[21mar2025 02:41:36.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
-[21mar2025 02:41:36.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
-[21mar2025 02:41:36.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
-[21mar2025 02:41:36.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
-[21mar2025 02:41:36.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
-[21mar2025 02:41:36.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
-[21mar2025 02:41:36.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
-[21mar2025 02:41:36.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[21mar2025 02:41:42.554] [Server thread/INFO] [Framework/]: Unloading server configs...
-[21mar2025 02:41:42.564] [Server thread/INFO] [Framework/]: Sending config unload event for mighty_mail.server.toml
-[21mar2025 02:41:42.569] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[22mar2025 00:00:42.309] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3168ms or 63 ticks
+[22mar2025 00:05:59.705] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ichira moved too quickly! 1702.810491478203,-6.5,2346.0187405783026
+[22mar2025 00:06:04.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ichira moved too quickly! -1703.234356962223,7.5,-2351.9794425905384
+[22mar2025 00:06:04.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ichira moved too quickly! -1703.234356962223,7.5,-2351.9794425905384
+[22mar2025 00:06:34.899] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ichira moved too quickly! -1705.3766179703273,6.917690388744788,-2350.9423228077862
+[22mar2025 00:06:37.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LiquidMankey moved too quickly! -1703.0659811141663,7.5,-2349.633164741627
+[22mar2025 00:06:37.584] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ichira moved too quickly! 1703.3874880263797,-6.5,2349.2853121814796
+[22mar2025 00:06:37.598] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ichira moved too quickly! 1703.3874880263797,-6.5,2349.2853121814796
+[22mar2025 00:06:41.892] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LiquidMankey moved too quickly! 1702.0,-6.5,2348.0
+[22mar2025 00:07:02.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ichira moved too quickly! 1702.9976064618127,-6.5,2344.5408775196715
+[22mar2025 00:07:02.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ichira moved too quickly! 1702.9976064618127,-6.5,2344.5408775196715
+[22mar2025 00:07:07.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LiquidMankey moved too quickly! 1702.8999208066284,-6.5,2346.983068601119
+[22mar2025 00:07:11.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LiquidMankey moved too quickly! -1701.4061990265286,7.5,-2350.083558795899
+[22mar2025 00:07:20.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LiquidMankey moved too quickly! 2662.2835507124614,-15.5,-6219.897631065208
+[22mar2025 00:07:41.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ichira was slain by LiquidMankey
+[22mar2025 00:07:41.307] [Server thread/INFO] [tombstone/]: The player Ichira has successfully been saved
+[22mar2025 00:07:42.996] [Server thread/INFO] [do_a_barrel_roll/]: Client of Ichira accepted server config.
+[22mar2025 00:07:48.192] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ichira moved too quickly! -1703.8696891933062,7.5,-2348.3969944258506
+[22mar2025 00:07:48.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ichira moved too quickly! -1703.8696891933062,7.5,-2348.3969944258506
+[22mar2025 00:07:54.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ichira moved too quickly! 1702.937837236474,-6.5,2347.8481431636583
+[22mar2025 00:09:14.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ichira was killed trying to hurt LiquidMankey
+[22mar2025 00:09:14.490] [Server thread/INFO] [tombstone/]: The player Ichira has successfully been saved
+[22mar2025 00:09:16.093] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ichira moved too quickly! 1710.262499988079,-7.0,2345.310041156205
+[22mar2025 00:09:16.093] [Server thread/INFO] [do_a_barrel_roll/]: Client of Ichira accepted server config.
+[22mar2025 00:09:19.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ichira moved too quickly! -1704.461631581179,7.5,-2347.563972287734
+[22mar2025 00:11:09.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rk_C_137 moved too quickly! 64.43122598197078,-57.75,174.06913596637287
+[22mar2025 00:11:09.050] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rk_C_137 moved too quickly! 64.43122598197078,-57.75,174.06913596637287
+[22mar2025 00:13:05.500] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ichira moved too quickly! 1703.6879744929342,-6.5,2347.94843595302
+[22mar2025 00:13:05.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ichira moved too quickly! 1703.6879744929342,-6.5,2347.94843595302
+[22mar2025 00:13:20.166] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LiquidMankey moved too quickly! 1704.2283982947674,-6.5,2347.766409009952
+[22mar2025 00:14:43.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rk_C_137 has reached the goal [Pick and Place]
+[22mar2025 00:15:42.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rk_C_137 has reached the goal [Trapped Inside]
+[22mar2025 00:15:42.985] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jpaib[/85.52.42.162:10499] logged in with entity id 85619 at (542.7767051211745, 182.0, -1410.9504887731553)
+[22mar2025 00:15:43.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jpaib joined the game
+[22mar2025 00:15:43.351] [Server thread/INFO] [Jade/]: Syncing config to jpaib (5692e3d9-ada9-3c2e-9e02-47c2d535987b)
+[22mar2025 00:15:43.386] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Client logged in: sending dimlet packages
+[22mar2025 00:15:43.405] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3330ms or 66 ticks
+[22mar2025 00:15:45.099] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of jpaib (18)
+[22mar2025 00:15:45.102] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to jpaib
+[22mar2025 00:15:52.963] [Server thread/INFO] [do_a_barrel_roll/]: Client of jpaib accepted server config.
+[22mar2025 00:20:35.145] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3795ms or 75 ticks
+[22mar2025 00:21:34.842] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3241ms or 64 ticks
+[22mar2025 00:22:05.469] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsAxels[/188.78.176.141:52335] logged in with entity id 89950 at (-51.5, 68.0, -28.5)
+[22mar2025 00:22:05.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAxels joined the game
+[22mar2025 00:22:05.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAxels has reached the goal [Easter]
+[22mar2025 00:22:05.941] [Server thread/INFO] [Jade/]: Syncing config to ItsAxels (4b214774-2104-35f1-83d6-d91380bcf7f9)
+[22mar2025 00:22:05.967] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Client logged in: sending dimlet packages
+[22mar2025 00:22:06.813] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ItsAxels (18)
+[22mar2025 00:22:06.817] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ItsAxels
+[22mar2025 00:22:12.640] [Server thread/INFO] [do_a_barrel_roll/]: Client of ItsAxels accepted server config.
+[22mar2025 00:23:05.030] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3099ms or 61 ticks
+[22mar2025 00:24:21.022] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3041ms or 60 ticks
+[22mar2025 00:24:22.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jpaib moved wrongly!
+[22mar2025 00:27:57.769] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3269ms or 65 ticks
+[22mar2025 00:28:54.107] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3238ms or 64 ticks
+[22mar2025 00:28:55.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAxels has made the advancement [Electrodynamics]
+[22mar2025 00:29:00.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAxels has made the advancement [Monster Hunter]
+[22mar2025 00:29:39.588] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3046ms or 60 ticks
+[22mar2025 00:29:51.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ichira has made the advancement [The Andesite Age]
+[22mar2025 00:30:17.266] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3089ms or 61 ticks
+[22mar2025 00:30:17.268] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[22mar2025 00:30:23.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAxels has made the advancement [Alex's Mobs]
+[22mar2025 00:30:47.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAxels has made the advancement [Stone Age]
+[22mar2025 00:31:49.358] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3096ms or 61 ticks
+[22mar2025 00:32:01.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAxels has made the advancement [Getting an Upgrade]
+[22mar2025 00:32:12.386] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3064ms or 61 ticks
+[22mar2025 00:32:12.726] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[22mar2025 00:32:57.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jpaib moved wrongly!
+[22mar2025 00:33:13.045] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3064ms or 61 ticks
+[22mar2025 00:33:37.766] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[22mar2025 00:35:30.167] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ichira moved too quickly! 1704.139211869312,-6.5,2347.0228387187067
+[22mar2025 00:35:48.185] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3204ms or 64 ticks
+[22mar2025 00:37:27.957] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3105ms or 62 ticks
+[22mar2025 00:37:33.254] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[22mar2025 00:38:08.224] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3133ms or 62 ticks
+[22mar2025 00:38:41.326] [Netty Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [ponder:main,gambling:gambling,cataclysm:main_channel,simpleradio:channel,alexsmobs:main_channel,waterframes:network,cosmeticarmorreworked:main,alchemylib:main,creativecore:main,ic_ip:main,lootr:main_network_channel,geckolib:main,inventorysorter:net,strawstatues:1,ballistix:main,ic_air:main,lightmanscurrency:network,botania:main,shrink:main_channel,polymorph:main,framedblocks:main,supermartijn642configlib:sync_configs,tombstone:tombstone_channel,biomancy:main,hand_magic:hand_magic,waystones:network,torchmaster:main,mighty_mail:play,alexscaves:main_channel,pointblank:pointblank,sophisticatedbackpacks:channel,chipped:main,computercraft:network,framework:play,lionfishapi:main_channel,forge:tier_sorting,mekanism:mekanism,littletiles:main,create:main,alchemistry:main,carryon:carryonpackets,mekanismgenerators:mekanismgenerators,citadel:main_channel,storagedrawers:main_channel,securitycraft:securitycraft,minions:minions,ad_astra:main,curios:main,framework:handshake,electrodynamics:main,exposure:packets,mca:main,sophisticatedcore:channel,patchouli:main,trashcans:main,spongebobs_spatula:spongebobs_spatula,spongebobmemepaintings:spongebobmemepaintings,true_herobrine:true_herobrine] rejected vanilla connections
+[22mar2025 00:38:41.328] [Netty Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/156.253.227.141:53428] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[22mar2025 00:38:49.430] [Server thread/INFO] [do_a_barrel_roll/]: Client of Rk_C_137 accepted server config.
+[22mar2025 00:39:13.407] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3094ms or 61 ticks
+[22mar2025 00:39:20.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAxels has made the advancement [Best Friends Forever]
+[22mar2025 00:39:41.965] [Server thread/INFO] [do_a_barrel_roll/]: Client of Rk_C_137 accepted server config.
+[22mar2025 00:39:42.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jpaib has completed the challenge [The Power of the Sun]
+[22mar2025 00:39:43.970] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[22mar2025 00:39:47.923] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3103ms or 62 ticks
+[22mar2025 00:40:07.209] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2198ms or 43 ticks behind
+[22mar2025 00:40:39.436] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3103ms or 62 ticks
+[22mar2025 00:41:02.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jpaib moved wrongly!
+[22mar2025 00:41:05.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jpaib has made the advancement [Multi-Tool]
+[22mar2025 00:42:57.571] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3067ms or 61 ticks
+[22mar2025 00:45:04.926] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3110ms or 62 ticks
+[22mar2025 00:45:09.069] [Server thread/INFO] [do_a_barrel_roll/]: Client of Rk_C_137 accepted server config.
+[22mar2025 00:45:09.086] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2376ms or 47 ticks behind
+[22mar2025 00:45:09.206] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of jpaib) moved too quickly! 5.951430767843931,4.706095334536556,7.056146990790239
+[22mar2025 00:45:09.210] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of jpaib) moved too quickly! 6.285493252938693,5.024605001991802,7.496172151377323
+[22mar2025 00:45:09.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of jpaib) moved too quickly! 6.618623240763384,5.345738429271407,7.937678356019433
+[22mar2025 00:45:09.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of jpaib) moved too quickly! 6.95094327648718,5.669278490768889,8.380514189402447
+[22mar2025 00:45:56.756] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3364ms or 67 ticks
+[22mar2025 00:46:47.215] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3826ms or 76 ticks
+[22mar2025 00:46:47.217] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[22mar2025 00:46:54.971] [Server thread/INFO] [do_a_barrel_roll/]: Client of Rk_C_137 accepted server config.
+[22mar2025 00:47:04.531] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2322ms or 46 ticks behind
+[22mar2025 00:47:41.191] [Server thread/INFO] [do_a_barrel_roll/]: Client of Rk_C_137 accepted server config.
+[22mar2025 00:48:19.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rk_C_137 has made the advancement [Hidden in the Depths]
+[22mar2025 00:48:26.965] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3238ms or 64 ticks
+[22mar2025 00:48:32.412] [Server thread/INFO] [do_a_barrel_roll/]: Client of Rk_C_137 accepted server config.
+[22mar2025 00:48:32.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jpaib moved wrongly!
+[22mar2025 00:48:43.751] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jpaib moved wrongly!
+[22mar2025 00:48:45.957] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ichira moved too quickly! -1703.224031563498,7.5,-2346.3999033678474
+[22mar2025 00:50:25.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ichira has made the advancement [We Need to Go Deeper]
+[22mar2025 00:50:25.775] [Server thread/INFO] [do_a_barrel_roll/]: Client of Ichira accepted server config.
+[22mar2025 00:50:51.720] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3067ms or 61 ticks
+[22mar2025 00:50:52.450] [Server thread/INFO] [do_a_barrel_roll/]: Client of Rk_C_137 accepted server config.
+[22mar2025 00:51:14.414] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3108ms or 62 ticks
+[22mar2025 00:51:17.567] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/120520, l='ServerLevel[world]', x=191.50, y=72.00, z=-7448.50]
+[22mar2025 00:51:21.242] [Server thread/INFO] [do_a_barrel_roll/]: Client of Rk_C_137 accepted server config.
+[22mar2025 00:51:55.986] [Server thread/INFO] [do_a_barrel_roll/]: Client of Ichira accepted server config.
+[22mar2025 00:52:06.972] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LiquidMankey moved too quickly! 2.096888516210086,-10.111131385027747,2.4552336433489472
+[22mar2025 00:52:17.698] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3070ms or 61 ticks
+[22mar2025 00:52:18.105] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[22mar2025 00:52:40.900] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3120ms or 62 ticks
+[22mar2025 00:53:00.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jpaib moved wrongly!
+[22mar2025 00:53:09.012] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jpaib moved wrongly!
+[22mar2025 00:53:28.222] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-57, y=-58, z=1076}
+[22mar2025 00:53:28.230] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=1076}
+[22mar2025 00:53:28.232] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-57, y=-58, z=1079}
+[22mar2025 00:53:28.232] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-57, y=-58, z=1077}
+[22mar2025 00:53:28.232] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=1079}
+[22mar2025 00:53:28.232] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=1077}
+[22mar2025 00:53:28.998] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-57, y=-58, z=1080}
+[22mar2025 00:53:28.998] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=1080}
+[22mar2025 00:53:28.999] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=1080}
+[22mar2025 00:53:29.001] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=1080}
+[22mar2025 00:53:33.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ItsAxels) moved wrongly! 0.2818214891210573
+[22mar2025 00:53:35.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ItsAxels) moved wrongly! 0.29431063564572923
+[22mar2025 00:53:35.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ItsAxels) moved wrongly! 0.7447289887243187
+[22mar2025 00:53:40.990] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3128ms or 62 ticks
+[22mar2025 00:54:12.699] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3052ms or 61 ticks
+[22mar2025 00:54:58.192] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jpaib moved wrongly!
+[22mar2025 00:56:16.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAxels has made the advancement [Fruits of the Field]
+[22mar2025 00:56:20.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ichira was killed trying to hurt LiquidMankey
+[22mar2025 00:56:20.963] [Server thread/INFO] [tombstone/]: The player Ichira has successfully been saved
+[22mar2025 00:56:22.496] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3116ms or 62 ticks
+[22mar2025 00:56:22.533] [Server thread/INFO] [do_a_barrel_roll/]: Client of Ichira accepted server config.
+[22mar2025 00:56:51.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jpaib was killed trying to hurt LiquidMankey
+[22mar2025 00:56:51.841] [Server thread/INFO] [tombstone/]: The player jpaib has successfully been saved
+[22mar2025 00:56:54.441] [Server thread/INFO] [do_a_barrel_roll/]: Client of jpaib accepted server config.
+[22mar2025 00:58:43.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ItsAxels) moved wrongly! 0.25869142479308493
+[22mar2025 00:58:43.502] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ItsAxels) moved wrongly! 0.5231108656923311
+[22mar2025 00:58:43.552] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ItsAxels) moved wrongly! 0.5505863430574891
+[22mar2025 00:58:43.601] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ItsAxels) moved wrongly! 0.5653627105038481
+[22mar2025 00:58:43.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ItsAxels) moved wrongly! 0.5732917843610039
+[22mar2025 00:58:43.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ItsAxels) moved wrongly! 0.5775311042530689
+[22mar2025 00:58:43.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ItsAxels) moved wrongly! 0.5797994798044215
+[22mar2025 00:58:43.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ItsAxels) moved wrongly! 0.5810132423353593
+[22mar2025 00:58:43.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ItsAxels) moved wrongly! 0.5816627024659056
+[22mar2025 00:58:43.902] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ItsAxels) moved wrongly! 0.5820102156329199
+[22mar2025 00:58:43.950] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ItsAxels) moved wrongly! 0.5821961629998782
+[22mar2025 00:58:44.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ItsAxels) moved wrongly! 0.5822956597285724
+[22mar2025 00:58:44.050] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ItsAxels) moved wrongly! 0.5559348912473183
+[22mar2025 00:58:44.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ItsAxels) moved wrongly! 0.5407569284291753
+[22mar2025 00:58:44.151] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ItsAxels) moved wrongly! 0.5326355031411367
+[22mar2025 00:58:44.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ItsAxels) moved wrongly! 0.5282898903932391
+[22mar2025 00:58:44.250] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ItsAxels) moved wrongly! 0.5259646396540347
+[22mar2025 00:58:44.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ItsAxels) moved wrongly! 0.5247204443439841
+[22mar2025 00:58:44.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ItsAxels) moved wrongly! 0.5240547002401286
+[22mar2025 00:58:44.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ItsAxels) moved wrongly! 0.5233238092605461
+[22mar2025 00:58:44.452] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ItsAxels) moved wrongly! 0.517238450136631
+[22mar2025 00:58:44.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ItsAxels) moved wrongly! 0.4934976061865086
+[22mar2025 00:58:44.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ItsAxels) moved wrongly! 0.4458717841230282
+[22mar2025 00:58:44.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ItsAxels) moved wrongly! 0.4017638349392314
+[22mar2025 00:58:44.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ItsAxels) moved wrongly! 0.37628838923950525
+[22mar2025 00:58:44.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ItsAxels) moved wrongly! 0.3626569861712028
+[22mar2025 00:58:44.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ItsAxels) moved wrongly! 0.3553630941702295
+[22mar2025 00:58:44.801] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ItsAxels) moved wrongly! 0.3514602779849838
+[22mar2025 00:58:44.851] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ItsAxels) moved wrongly! 0.3493719588580575
+[22mar2025 00:58:44.901] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ItsAxels) moved wrongly! 0.34825454092981545
+[22mar2025 00:58:44.951] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ItsAxels) moved wrongly! 0.3476566328753279
+[22mar2025 00:58:45.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ItsAxels) moved wrongly! 0.42873256146350514
+[22mar2025 00:58:45.053] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ItsAxels) moved wrongly! 0.47177409349546906
+[22mar2025 00:58:45.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ItsAxels) moved wrongly! 0.472008998657941
+[22mar2025 00:58:45.154] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ItsAxels) moved wrongly! 0.43248877085932236
+[22mar2025 00:58:45.227] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ItsAxels) moved wrongly! 0.3771199504793117
+[22mar2025 00:58:45.252] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ItsAxels) moved wrongly! 0.33452661222020197
+[22mar2025 00:58:45.300] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ItsAxels) moved wrongly! 0.31173576613724663
+[22mar2025 01:00:12.837] [Server thread/INFO] [do_a_barrel_roll/]: Client of Rk_C_137 accepted server config.
+[22mar2025 01:00:30.450] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22mar2025 01:00:33.889] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3100ms or 62 ticks
+[22mar2025 01:03:15.254] [Worker-Main-7/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/133533, l='ServerLevel[world]', x=-811.00, y=31.00, z=-485.00] as it would cause deadlock
+[22mar2025 01:03:28.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LiquidMankey moved wrongly!
+[22mar2025 01:03:28.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rk_C_137 has made the advancement [Nightmare Fuel]
+[22mar2025 01:03:44.659] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3132ms or 62 ticks
+[22mar2025 01:03:56.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jpaib moved wrongly!
+[22mar2025 01:03:57.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rk_C_137 has made the advancement [Those Were the Days]
+[22mar2025 01:04:16.677] [Server thread/INFO] [do_a_barrel_roll/]: Client of Rk_C_137 accepted server config.
+[22mar2025 01:04:47.443] [Server thread/INFO] [do_a_barrel_roll/]: Client of Rk_C_137 accepted server config.
+[22mar2025 01:04:53.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rk_C_137 was slain by Dropbear
+[22mar2025 01:04:53.650] [Server thread/INFO] [tombstone/]: The player Rk_C_137 has successfully been saved
+[22mar2025 01:04:55.487] [Server thread/INFO] [do_a_barrel_roll/]: Client of Rk_C_137 accepted server config.
+[22mar2025 01:04:59.424] [Server thread/INFO] [do_a_barrel_roll/]: Client of Rk_C_137 accepted server config.
+[22mar2025 01:05:53.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rk_C_137 has made the advancement [War Pigs]
+[22mar2025 01:05:55.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rk_C_137 has made the advancement [Not even afraid of death]
+[22mar2025 01:05:55.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rk_C_137 has made the advancement [Back to childhood]
+[22mar2025 01:05:58.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rk_C_137 has made the advancement [It Belongs in a Museum]
+[22mar2025 01:06:05.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rk_C_137 has made the advancement [Where Is The Stone Pen?]
+[22mar2025 01:06:07.881] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3101ms or 62 ticks
+[22mar2025 01:06:23.817] [Server thread/INFO] [do_a_barrel_roll/]: Client of Rk_C_137 accepted server config.
+[22mar2025 01:08:29.002] [Server thread/INFO] [FTB Chunks/]: attempting to transfer 24 chunks from ItsAxels#4b214774 to Extermina_Gitanos#2a0af610
+[22mar2025 01:08:29.017] [Server thread/INFO] [FTB Chunks/]: Transferred 24 chunks from 4b214774-2104-35f1-83d6-d91380bcf7f9 (ItsAxels#4b214774) to 2a0af610-ff8b-442e-a5a0-9841b456e694 (Extermina_Gitanos#2a0af610)
+[22mar2025 01:08:29.017] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for 4b214774-2104-35f1-83d6-d91380bcf7f9 (ItsAxels#4b214774) due to claim limits
+[22mar2025 01:08:29.018] [Server thread/INFO] [FTB Chunks/]: Team Extermina_Gitanos#2a0af610 had 0 claimed chunks, now has 24
+[22mar2025 01:08:29.129] [Server thread/INFO] [do_a_barrel_roll/]: Client of ItsAxels accepted server config.
+[22mar2025 01:08:38.334] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3296ms or 65 ticks
+[22mar2025 01:09:07.622] [Server thread/INFO] [do_a_barrel_roll/]: Client of Rk_C_137 accepted server config.
+[22mar2025 01:09:20.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rk_C_137 was slain by Dropbear
+[22mar2025 01:09:20.362] [Server thread/INFO] [tombstone/]: The player Rk_C_137 has successfully been saved
+[22mar2025 01:09:22.060] [Server thread/INFO] [do_a_barrel_roll/]: Client of Rk_C_137 accepted server config.
+[22mar2025 01:09:30.332] [Server thread/INFO] [do_a_barrel_roll/]: Client of Rk_C_137 accepted server config.
+[22mar2025 01:09:37.717] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3147ms or 62 ticks
+[22mar2025 01:11:20.758] [Worker-Main-4/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/139550, l='ServerLevel[world]', x=-913.00, y=31.00, z=-479.10] as it would cause deadlock
+[22mar2025 01:11:36.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LiquidMankey has made the advancement [Ambush]
+[22mar2025 01:11:39.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jpaib was slain by Vindicator
+[22mar2025 01:11:39.170] [Server thread/INFO] [tombstone/]: The player jpaib has successfully been saved
+[22mar2025 01:11:41.563] [Server thread/INFO] [do_a_barrel_roll/]: Client of jpaib accepted server config.
+[22mar2025 01:11:42.769] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3042ms or 60 ticks
+[22mar2025 01:14:05.717] [Worker-Main-6/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/141658, l='ServerLevel[world]', x=-1188.00, y=31.00, z=-383.00] as it would cause deadlock
+[22mar2025 01:14:40.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rk_C_137 has completed the challenge [Hot Tourist Destinations]
+[22mar2025 01:14:46.953] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ichira moved wrongly!
+[22mar2025 01:14:54.159] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3171ms or 63 ticks
+[22mar2025 01:15:12.333] [Worker-Main-4/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/142729, l='ServerLevel[world]', x=-1437.00, y=31.00, z=-359.00] as it would cause deadlock
+[22mar2025 01:16:17.972] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3201ms or 64 ticks
+[22mar2025 01:19:29.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rk_C_137 has made the advancement [Ol' Betsy]
+[22mar2025 01:19:29.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rk_C_137 has made the advancement [Take Aim]
+[22mar2025 01:20:43.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ichira has made the advancement [Close Quarters]
+[22mar2025 01:21:03.294] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3060ms or 61 ticks
+[22mar2025 01:21:05.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jpaib moved wrongly!
+[22mar2025 01:21:23.286] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jpaib moved wrongly!
+[22mar2025 01:21:25.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jpaib moved wrongly!
+[22mar2025 01:21:26.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jpaib moved wrongly!
+[22mar2025 01:21:30.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ichira was shot by Skeleton
+[22mar2025 01:21:30.544] [Server thread/INFO] [tombstone/]: The player Ichira has successfully been saved
+[22mar2025 01:21:34.335] [Server thread/INFO] [do_a_barrel_roll/]: Client of Ichira accepted server config.
+[22mar2025 01:21:37.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jpaib moved wrongly!
+[22mar2025 01:22:11.793] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3278ms or 65 ticks
+[22mar2025 01:22:55.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAxels has made the advancement [Easter Egg Searcher]
+[22mar2025 01:23:15.476] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3047ms or 60 ticks
+[22mar2025 01:23:28.059] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
+[22mar2025 01:24:05.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rk_C_137 has made the advancement [A Terrible Fortress]
+[22mar2025 01:24:22.234] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LiquidMankey lost connection: Disconnected
+[22mar2025 01:24:22.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LiquidMankey left the game
+[22mar2025 01:24:22.262] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client LiquidMankey
+[22mar2025 01:24:28.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rk_C_137 has made the advancement [Into Fire]
+[22mar2025 01:25:24.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAxels has made the advancement [Knowledge of Death]
+[22mar2025 01:25:24.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAxels has made the advancement [A Strange Grave Dust]
+[22mar2025 01:26:05.246] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3256ms or 65 ticks
+[22mar2025 01:26:09.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAxels has made the advancement [Ashes 'n Bones]
+[22mar2025 01:26:31.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rk_C_137 was burnt to a crisp whilst fighting Blaze
+[22mar2025 01:26:31.890] [Server thread/INFO] [tombstone/]: The player Rk_C_137 has successfully been saved
+[22mar2025 01:26:33.623] [Server thread/INFO] [do_a_barrel_roll/]: Client of Rk_C_137 accepted server config.
+[22mar2025 01:27:35.354] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@a9e8cd7[id=<null>,name=LiquidMankey,properties={},legacy=false] (/37.134.122.111:57057): Took too long to log in
+[22mar2025 01:27:35.355] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@a9e8cd7[id=<null>,name=LiquidMankey,properties={},legacy=false] (/37.134.122.111:57057) lost connection: Timed out
+[22mar2025 01:27:35.432] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22mar2025 01:27:47.641] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LiquidMankey[/37.134.122.111:57062] logged in with entity id 151417 at (485.0061986920417, 51.0, -9063.242245147027)
+[22mar2025 01:27:47.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LiquidMankey joined the game
+[22mar2025 01:27:48.188] [Server thread/INFO] [Jade/]: Syncing config to LiquidMankey (a70ea0c1-d056-376d-8f49-53ac0a1566a9)
+[22mar2025 01:27:48.236] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Client logged in: sending dimlet packages
+[22mar2025 01:27:48.659] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of LiquidMankey (18)
+[22mar2025 01:27:48.665] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to LiquidMankey
+[22mar2025 01:27:48.838] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3061ms or 61 ticks
+[22mar2025 01:28:10.078] [Server thread/INFO] [do_a_barrel_roll/]: Client of LiquidMankey accepted server config.
+[22mar2025 01:28:59.745] [Server thread/INFO] [do_a_barrel_roll/]: Client of Rk_C_137 accepted server config.
+[22mar2025 01:29:22.501] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[22mar2025 01:29:27.738] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3050ms or 61 ticks
+[22mar2025 01:29:51.630] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3843ms or 76 ticks
+[22mar2025 01:29:51.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2087ms or 41 ticks behind
+[22mar2025 01:29:51.680] [Server thread/INFO] [do_a_barrel_roll/]: Client of Rk_C_137 accepted server config.
+[22mar2025 01:30:17.652] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/153388, l='ServerLevel[world]', x=232.50, y=73.00, z=-556.50]
+[22mar2025 01:30:35.998] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3179ms or 63 ticks
+[22mar2025 01:31:09.291] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3122ms or 62 ticks
+[22mar2025 01:32:15.369] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/154513, l='ServerLevel[world]', x=231.50, y=73.00, z=-554.50]
+[22mar2025 01:32:17.952] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/154527, l='ServerLevel[world]', x=232.50, y=75.00, z=-587.50]
+[22mar2025 01:34:23.360] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3083ms or 61 ticks
+[22mar2025 01:36:08.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jpaib has made the advancement [Black or White]
+[22mar2025 01:36:18.919] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LiquidMankey moved too quickly! 0.0,-16.726416485998584,0.0
+[22mar2025 01:36:33.970] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3166ms or 63 ticks
+[22mar2025 01:36:38.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jpaib has reached the goal [A Small Cemetery]
+[22mar2025 01:37:15.183] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/157717, l='ServerLevel[world]', x=228.50, y=76.00, z=-590.50]
+[22mar2025 01:37:29.674] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ichira moved wrongly!
+[22mar2025 01:37:35.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ichira moved wrongly!
+[22mar2025 01:38:32.805] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rk_C_137 lost connection: Disconnected
+[22mar2025 01:38:32.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rk_C_137 left the game
+[22mar2025 01:38:32.822] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Rk_C_137
+[22mar2025 01:38:34.908] [Netty Server IO #10/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [ponder:main,gambling:gambling,cataclysm:main_channel,simpleradio:channel,alexsmobs:main_channel,waterframes:network,cosmeticarmorreworked:main,alchemylib:main,creativecore:main,ic_ip:main,lootr:main_network_channel,geckolib:main,inventorysorter:net,strawstatues:1,ballistix:main,ic_air:main,lightmanscurrency:network,botania:main,shrink:main_channel,polymorph:main,framedblocks:main,supermartijn642configlib:sync_configs,tombstone:tombstone_channel,biomancy:main,hand_magic:hand_magic,waystones:network,torchmaster:main,mighty_mail:play,alexscaves:main_channel,pointblank:pointblank,sophisticatedbackpacks:channel,chipped:main,computercraft:network,framework:play,lionfishapi:main_channel,forge:tier_sorting,mekanism:mekanism,littletiles:main,create:main,alchemistry:main,carryon:carryonpackets,mekanismgenerators:mekanismgenerators,citadel:main_channel,storagedrawers:main_channel,securitycraft:securitycraft,minions:minions,ad_astra:main,curios:main,framework:handshake,electrodynamics:main,exposure:packets,mca:main,sophisticatedcore:channel,patchouli:main,trashcans:main,spongebobs_spatula:spongebobs_spatula,spongebobmemepaintings:spongebobmemepaintings,true_herobrine:true_herobrine] rejected vanilla connections
+[22mar2025 01:38:34.909] [Netty Server IO #10/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/156.253.227.141:38400] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[22mar2025 01:38:45.069] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rk_C_137[/37.134.122.14:51454] logged in with entity id 158715 at (-2153.7799777895384, 71.0, -2848.311916848548)
+[22mar2025 01:38:45.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rk_C_137 joined the game
+[22mar2025 01:38:45.264] [Server thread/INFO] [Jade/]: Syncing config to Rk_C_137 (031cc427-3533-3493-8bc3-cd624f732661)
+[22mar2025 01:38:45.280] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Client logged in: sending dimlet packages
+[22mar2025 01:38:45.296] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3110ms or 62 ticks
+[22mar2025 01:38:45.522] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Rk_C_137 (18)
+[22mar2025 01:38:45.523] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Rk_C_137
+[22mar2025 01:38:51.407] [Server thread/INFO] [do_a_barrel_roll/]: Client of Rk_C_137 accepted server config.
+[22mar2025 01:39:52.426] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/159399, l='ServerLevel[world]', x=230.50, y=73.00, z=-554.50]
+[22mar2025 01:40:11.779] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/159555, l='ServerLevel[world]', x=211.50, y=75.00, z=-548.50]
+[22mar2025 01:40:27.127] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/159700, l='ServerLevel[world]', x=211.50, y=70.00, z=-563.50]
+[22mar2025 01:40:32.474] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/159799, l='ServerLevel[world]', x=232.50, y=73.00, z=-554.50]
+[22mar2025 01:40:38.074] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/159832, l='ServerLevel[world]', x=232.50, y=73.00, z=-555.50]
+[22mar2025 01:40:44.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rk_C_137 has made the advancement [Multi-Tool]
+[22mar2025 01:40:55.177] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/159982, l='ServerLevel[world]', x=230.50, y=73.00, z=-555.50]
+[22mar2025 01:41:19.927] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/160221, l='ServerLevel[world]', x=211.50, y=70.00, z=-562.50]
+[22mar2025 01:41:28.349] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ichira moved wrongly!
+[22mar2025 01:41:59.395] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ichira lost connection: Disconnected
+[22mar2025 01:41:59.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ichira left the game
+[22mar2025 01:41:59.403] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ichira
+[22mar2025 01:45:47.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LiquidMankey> niggers
+[22mar2025 01:47:29.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAxels has made the advancement [Acquire Hardware]
+[22mar2025 01:50:31.167] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rk_C_137 moved wrongly!
+[22mar2025 01:50:33.096] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jpaib moved wrongly!
+[22mar2025 01:50:35.349] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rk_C_137 moved wrongly!
+[22mar2025 01:51:09.247] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3133ms or 62 ticks
+[22mar2025 01:52:35.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAxels has made the advancement [Isn't It Iron Pick]
+[22mar2025 01:52:41.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAxels has made the advancement [Suit Up]
+[22mar2025 01:52:55.483] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rk_C_137 moved wrongly!
+[22mar2025 01:52:57.005] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jpaib moved wrongly!
+[22mar2025 01:55:10.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jpaib has made the advancement [Easter Egg Searcher]
+[22mar2025 01:55:18.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rk_C_137 has made the advancement [Penteconter]
+[22mar2025 01:55:31.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAxels has made the advancement [Sweet Dreams]
+[22mar2025 02:05:45.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rk_C_137 has reached the goal [Bone Crusher]
+[22mar2025 02:05:56.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAxels has made the advancement [Raw Vanadinite Crystals]
+[22mar2025 02:07:52.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jpaib has completed the challenge [Centennial]
+[22mar2025 02:08:32.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAxels has made the advancement [Barrel Booty]
+[22mar2025 02:08:56.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAxels has made the advancement [Chest Slayer]
+[22mar2025 02:08:57.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAxels has made the advancement [Amateur Archaeologist]
+[22mar2025 02:09:52.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAxels has made the advancement [Let's Get To Work]
+[22mar2025 02:11:09.309] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3100ms or 62 ticks
+[22mar2025 02:14:14.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rk_C_137 moved wrongly!
+[22mar2025 02:15:31.096] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/173516, l='ServerLevel[world]', x=228.50, y=76.00, z=-589.50]
+[22mar2025 02:15:41.192] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/173546, l='ServerLevel[world]', x=232.50, y=76.00, z=-573.50]
+[22mar2025 02:16:07.395] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/173703, l='ServerLevel[world]', x=210.50, y=75.00, z=-548.50]
+[22mar2025 02:16:18.197] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/173777, l='ServerLevel[world]', x=231.50, y=73.00, z=-556.50]
+[22mar2025 02:16:30.396] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/174020, l='ServerLevel[world]', x=227.50, y=76.00, z=-590.50]
+[22mar2025 02:16:37.046] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/174073, l='ServerLevel[world]', x=209.50, y=75.00, z=-548.50]
+[22mar2025 02:17:09.194] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/174976, l='ServerLevel[world]', x=232.50, y=76.00, z=-571.50]
+[22mar2025 02:18:02.996] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/175210, l='ServerLevel[world]', x=226.50, y=76.00, z=-588.50]
+[22mar2025 02:18:19.045] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/175276, l='ServerLevel[world]', x=229.50, y=76.00, z=-609.50]
+[22mar2025 02:19:55.797] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/179648, l='ServerLevel[world]', x=195.50, y=73.00, z=-549.50]
+[22mar2025 02:20:25.199] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/179820, l='ServerLevel[world]', x=212.50, y=70.00, z=-561.50]
+[22mar2025 02:20:38.249] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/179939, l='ServerLevel[world]', x=197.50, y=73.00, z=-549.50]
+[22mar2025 02:21:53.503] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/180612, l='ServerLevel[world]', x=138.50, y=74.00, z=-600.50]
+[22mar2025 02:21:55.004] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/180622, l='ServerLevel[world]', x=231.50, y=76.00, z=-608.50]
+[22mar2025 02:21:57.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAxels has made the advancement [Not Today, Thank You]
+[22mar2025 02:22:28.107] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/180892, l='ServerLevel[world]', x=234.50, y=76.00, z=-573.50]
+[22mar2025 02:22:30.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rk_C_137 has completed the challenge [Centennial]
+[22mar2025 02:22:40.407] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/180998, l='ServerLevel[world]', x=213.50, y=70.00, z=-563.50]
+[22mar2025 02:24:49.659] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/181622, l='ServerLevel[world]', x=227.50, y=73.00, z=-623.50]
+[22mar2025 02:25:27.308] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/181810, l='ServerLevel[world]', x=230.50, y=75.00, z=-587.50]
+[22mar2025 02:26:03.509] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/182008, l='ServerLevel[world]', x=138.50, y=74.00, z=-598.50]
+[22mar2025 02:26:07.909] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/182037, l='ServerLevel[world]', x=136.50, y=74.00, z=-599.50]
+[22mar2025 02:26:09.363] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3067ms or 61 ticks
+[22mar2025 02:26:21.311] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/182077, l='ServerLevel[world]', x=232.50, y=75.00, z=-586.50]
+[22mar2025 02:26:38.458] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/182148, l='ServerLevel[world]', x=228.50, y=76.00, z=-588.50]
+[22mar2025 02:26:49.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAxels has made the advancement [Diamonds!]
+[22mar2025 02:28:12.057] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/182936, l='ServerLevel[world]', x=159.50, y=72.00, z=-632.50]
+[22mar2025 02:28:35.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rk_C_137 has made the advancement [Cover Me with Diamonds]
+[22mar2025 02:28:38.811] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/183091, l='ServerLevel[world]', x=157.50, y=72.00, z=-633.50]
+[22mar2025 02:29:01.509] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/183177, l='ServerLevel[world]', x=231.50, y=75.00, z=-588.50]
+[22mar2025 02:29:26.862] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/183415, l='ServerLevel[world]', x=137.50, y=74.00, z=-600.50]
+[22mar2025 02:29:49.059] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/183558, l='ServerLevel[world]', x=213.50, y=70.00, z=-562.50]
+[22mar2025 02:35:44.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAxels has made the advancement ['X' Marks the Spot]
+[22mar2025 02:35:50.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rk_C_137 moved too quickly! 23.239536198846963,93.5,-15.487340023296383
+[22mar2025 02:36:15.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAxels has made the advancement [Raw Chromite Ore]
+[22mar2025 02:36:25.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAxels has made the advancement [Odd Looking Rocks]
+[22mar2025 02:38:50.117] [Netty Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [ponder:main,gambling:gambling,cataclysm:main_channel,simpleradio:channel,alexsmobs:main_channel,waterframes:network,cosmeticarmorreworked:main,alchemylib:main,creativecore:main,ic_ip:main,lootr:main_network_channel,geckolib:main,inventorysorter:net,strawstatues:1,ballistix:main,ic_air:main,lightmanscurrency:network,botania:main,shrink:main_channel,polymorph:main,framedblocks:main,supermartijn642configlib:sync_configs,tombstone:tombstone_channel,biomancy:main,hand_magic:hand_magic,waystones:network,torchmaster:main,mighty_mail:play,alexscaves:main_channel,pointblank:pointblank,sophisticatedbackpacks:channel,chipped:main,computercraft:network,framework:play,lionfishapi:main_channel,forge:tier_sorting,mekanism:mekanism,littletiles:main,create:main,alchemistry:main,carryon:carryonpackets,mekanismgenerators:mekanismgenerators,citadel:main_channel,storagedrawers:main_channel,securitycraft:securitycraft,minions:minions,ad_astra:main,curios:main,framework:handshake,electrodynamics:main,exposure:packets,mca:main,sophisticatedcore:channel,patchouli:main,trashcans:main,spongebobs_spatula:spongebobs_spatula,spongebobmemepaintings:spongebobmemepaintings,true_herobrine:true_herobrine] rejected vanilla connections
+[22mar2025 02:38:50.119] [Netty Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/156.253.227.141:48946] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[22mar2025 02:39:04.349] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jpaib moved wrongly!
+[22mar2025 02:39:06.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rk_C_137 moved wrongly!
+[22mar2025 02:41:42.745] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/192011, l='ServerLevel[world]', x=270.50, y=74.00, z=-9082.50]
+[22mar2025 02:41:49.915] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rk_C_137 moved wrongly!
+[22mar2025 02:41:52.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jpaib moved wrongly!
+[22mar2025 02:51:09.337] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3177ms or 63 ticks
+[22mar2025 02:51:34.098] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/197347, l='ServerLevel[world]', x=634.50, y=74.00, z=-9092.50]
+[22mar2025 03:00:24.689] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rk_C_137 lost connection: Disconnected
+[22mar2025 03:00:24.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rk_C_137 left the game
+[22mar2025 03:00:24.696] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Rk_C_137
+[22mar2025 03:00:27.885] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jpaib lost connection: Disconnected
+[22mar2025 03:00:27.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jpaib left the game
+[22mar2025 03:00:27.888] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client jpaib
+[22mar2025 03:00:49.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LiquidMankey has made the advancement [Inner Arts]
+[22mar2025 03:00:58.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItsAxels> :(
+[22mar2025 03:01:14.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LiquidMankey> voy a cerrar el server ya mismo
+[22mar2025 03:01:15.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItsAxels> Como que artes intimas???
+[22mar2025 03:01:26.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LiquidMankey> termina lo que sea que estes haciendo y cierro
+[22mar2025 03:01:47.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItsAxels> Sip, si yo me iba a ir ya también
+[22mar2025 03:01:53.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItsAxels> bona nit
+[22mar2025 03:01:58.430] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsAxels lost connection: Disconnected
+[22mar2025 03:01:58.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAxels left the game
+[22mar2025 03:01:58.432] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ItsAxels
+[22mar2025 03:02:00.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LiquidMankey> bona nit
+[22mar2025 03:09:43.088] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Olexandra'/201810, l='ServerLevel[world]', x=477.45, y=51.00, z=-9060.71] died, message: 'Olexandra was slain by LiquidMankey'
+[22mar2025 03:10:11.255] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Olga'/201815, l='ServerLevel[world]', x=481.17, y=51.88, z=-9042.41] died, message: 'Olga was slain by LiquidMankey'
+[22mar2025 03:10:23.184] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Mariya'/201847, l='ServerLevel[world]', x=472.23, y=51.00, z=-9052.77] died, message: 'Mariya was slain by LiquidMankey'
+[22mar2025 03:10:38.057] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Myroslava'/201875, l='ServerLevel[world]', x=478.29, y=51.00, z=-9060.67] died, message: 'Myroslava was slain by LiquidMankey'
+[22mar2025 03:10:45.625] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Evgenia'/201876, l='ServerLevel[world]', x=484.21, y=51.00, z=-9049.50] died, message: 'Evgenia was slain by LiquidMankey'
+[22mar2025 03:10:46.750] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ulyana'/201873, l='ServerLevel[world]', x=485.87, y=51.00, z=-9049.39] died, message: 'Ulyana was slain by LiquidMankey'
+[22mar2025 03:10:48.579] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Natalia'/201877, l='ServerLevel[world]', x=488.50, y=51.00, z=-9050.50] died, message: 'Natalia was slain by LiquidMankey'
+[22mar2025 03:11:03.258] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Lilya'/201874, l='ServerLevel[world]', x=480.50, y=51.00, z=-9048.72] died, message: 'Lilya was slain by LiquidMankey'
+[22mar2025 03:14:22.187] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Daria'/202163, l='ServerLevel[world]', x=482.23, y=51.00, z=-9059.74] died, message: 'Daria was slain by LiquidMankey'
+[22mar2025 03:14:22.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LiquidMankey has made the advancement [Crime in Town]
+[22mar2025 03:14:28.110] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Darija'/202169, l='ServerLevel[world]', x=481.50, y=51.00, z=-9059.50] died, message: 'Darija was slain by LiquidMankey'
+[22mar2025 03:14:32.714] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Liudmila'/202170, l='ServerLevel[world]', x=480.50, y=51.00, z=-9059.50] died, message: 'Liudmila was slain by LiquidMankey'
+[22mar2025 03:14:39.186] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Elena'/202172, l='ServerLevel[world]', x=481.50, y=51.00, z=-9053.81] died, message: 'Elena was slain by LiquidMankey'
+[22mar2025 03:15:31.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LiquidMankey has made the advancement [Friendship Found]
+[22mar2025 03:15:31.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LiquidMankey has completed the challenge [Best Friends]
+[22mar2025 03:17:32.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LiquidMankey: Set own game mode to Spectator Mode]
+[22mar2025 03:17:41.463] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3139ms or 62 ticks
+[22mar2025 03:34:38.697] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LiquidMankey moved too quickly! -2662.3498342751946,15.5,6219.703403839192
+[22mar2025 03:35:41.081] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity SlowProjectile['entity.pointblank.at4_rocket'/203160, l='ServerLevel[world]', x=440.91, y=313.91, z=-8975.41, removed=DISCARDED]
+[22mar2025 03:38:48.182] [Netty Server IO #7/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [ponder:main,gambling:gambling,cataclysm:main_channel,simpleradio:channel,alexsmobs:main_channel,waterframes:network,cosmeticarmorreworked:main,alchemylib:main,creativecore:main,ic_ip:main,lootr:main_network_channel,geckolib:main,inventorysorter:net,strawstatues:1,ballistix:main,ic_air:main,lightmanscurrency:network,botania:main,shrink:main_channel,polymorph:main,framedblocks:main,supermartijn642configlib:sync_configs,tombstone:tombstone_channel,biomancy:main,hand_magic:hand_magic,waystones:network,torchmaster:main,mighty_mail:play,alexscaves:main_channel,pointblank:pointblank,sophisticatedbackpacks:channel,chipped:main,computercraft:network,framework:play,lionfishapi:main_channel,forge:tier_sorting,mekanism:mekanism,littletiles:main,create:main,alchemistry:main,carryon:carryonpackets,mekanismgenerators:mekanismgenerators,citadel:main_channel,storagedrawers:main_channel,securitycraft:securitycraft,minions:minions,ad_astra:main,curios:main,framework:handshake,electrodynamics:main,exposure:packets,mca:main,sophisticatedcore:channel,patchouli:main,trashcans:main,spongebobs_spatula:spongebobs_spatula,spongebobmemepaintings:spongebobmemepaintings,true_herobrine:true_herobrine] rejected vanilla connections
+[22mar2025 03:38:48.183] [Netty Server IO #7/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/156.253.227.23:51360] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[22mar2025 03:41:16.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LiquidMankey: Applied effect Resistance to LiquidMankey]
+[22mar2025 03:42:04.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LiquidMankey: Applied effect Regeneration to LiquidMankey]
+[22mar2025 03:42:13.263] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LiquidMankey lost connection: Disconnected
+[22mar2025 03:42:13.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LiquidMankey left the game
+[22mar2025 03:42:13.269] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client LiquidMankey
+[22mar2025 03:42:30.746] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LiquidMankey[/37.134.122.111:57767] logged in with entity id 214137 at (471.8565182035106, 51.0, -9052.320733655157)
+[22mar2025 03:42:30.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LiquidMankey joined the game
+[22mar2025 03:42:30.960] [Server thread/INFO] [Jade/]: Syncing config to LiquidMankey (a70ea0c1-d056-376d-8f49-53ac0a1566a9)
+[22mar2025 03:42:30.982] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Client logged in: sending dimlet packages
+[22mar2025 03:42:31.027] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity SlowProjectile['entity.pointblank.at4_rocket'/203160, l='ServerLevel[world]', x=440.91, y=313.91, z=-8975.41, removed=DISCARDED]
+[22mar2025 03:42:33.435] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of LiquidMankey (18)
+[22mar2025 03:42:33.439] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to LiquidMankey
+[22mar2025 03:42:48.163] [Server thread/INFO] [do_a_barrel_roll/]: Client of LiquidMankey accepted server config.
+[22mar2025 03:43:54.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LiquidMankey moved too quickly! 2661.0,-15.5,-6219.0
+[22mar2025 03:44:09.968] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity SlowProjectile['entity.pointblank.at4_rocket'/203160, l='ServerLevel[world]', x=440.91, y=313.91, z=-8975.41, removed=DISCARDED]
+[22mar2025 03:44:42.244] [Server thread/ERROR] [waterframes/]: Received packet 'TimePacket' pointing to a invalid DisplayTile position BlockPos{x=471, y=52, z=-9049}
+[22mar2025 03:44:42.244] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3044ms or 60 ticks
+[22mar2025 03:44:42.255] [Server thread/ERROR] [waterframes/]: Received packet 'TimePacket' pointing to a invalid DisplayTile position BlockPos{x=471, y=52, z=-9049}
+[22mar2025 03:44:43.725] [Server thread/INFO] [do_a_barrel_roll/]: Client of LiquidMankey accepted server config.
+[22mar2025 03:44:55.720] [Server thread/INFO] [do_a_barrel_roll/]: Client of LiquidMankey accepted server config.
+[22mar2025 03:44:58.141] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity SlowProjectile['entity.pointblank.at4_rocket'/203160, l='ServerLevel[world]', x=440.91, y=313.91, z=-8975.41, removed=DISCARDED]
+[22mar2025 03:47:39.598] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity SlowProjectile['entity.pointblank.at4_rocket'/203160, l='ServerLevel[world]', x=440.91, y=313.91, z=-8975.41, removed=DISCARDED]
+[22mar2025 03:49:36.168] [Server thread/WARN] [waterframes/]: Received maxTick value major than current one, media differs?.
+[22mar2025 03:52:59.470] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LiquidMankey lost connection: Disconnected
+[22mar2025 03:52:59.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LiquidMankey left the game
+[22mar2025 03:52:59.472] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client LiquidMankey
+[22mar2025 03:54:24.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[22mar2025 03:54:24.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[22mar2025 03:54:24.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[22mar2025 03:54:24.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[22mar2025 03:54:25.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22mar2025 03:54:25.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
+[22mar2025 03:54:25.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
+[22mar2025 03:54:25.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
+[22mar2025 03:54:25.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22mar2025 03:54:25.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
+[22mar2025 03:54:25.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
+[22mar2025 03:54:25.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
+[22mar2025 03:54:25.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22mar2025 03:54:25.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
+[22mar2025 03:54:25.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
+[22mar2025 03:54:25.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
+[22mar2025 03:54:25.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
+[22mar2025 03:54:25.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
+[22mar2025 03:54:25.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22mar2025 03:54:25.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[22mar2025 03:54:25.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[22mar2025 03:54:25.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[22mar2025 03:54:25.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22mar2025 03:54:25.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[22mar2025 03:54:25.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[22mar2025 03:54:25.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[22mar2025 03:54:25.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22mar2025 03:54:25.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[22mar2025 03:54:25.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[22mar2025 03:54:25.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[22mar2025 03:54:25.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[22mar2025 03:54:25.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[22mar2025 03:54:25.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22mar2025 03:54:30.135] [Server thread/INFO] [Framework/]: Unloading server configs...
+[22mar2025 03:54:30.143] [Server thread/INFO] [Framework/]: Sending config unload event for mighty_mail.server.toml
+[22mar2025 03:54:30.152] [Server thread/INFO] [Framework/]: Finished unloading server configs

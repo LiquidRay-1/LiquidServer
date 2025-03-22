@@ -2,9 +2,7 @@
 	id: "797a1d70-a5f9-30e6-8de7-1c91bc329678"
 	type: "player"
 	player_name: "Ichira"
-	ranks: {
-		797a1d70-a5f9-30e6-8de7-1c91bc329678: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Ichira"
 		"ftbteams:description": ""

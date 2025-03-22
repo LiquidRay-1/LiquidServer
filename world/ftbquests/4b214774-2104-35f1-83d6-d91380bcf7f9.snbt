@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "4b214774210435f183d6d91380bcf7f9"
+	name: "ItsAxels#4b214774"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
